@@ -8,29 +8,29 @@ The two dimensions (Overworld and Bleeding Valley) can be accessed by typing /in
 
 Biomes:
 
--Lavender Highlands
--Hydrothermal Forest (Bathing in the mineral pools restores your health.)
--Dragon Peak
--Bleeding Valley (Following the river of blood will lead you to Tartarus.)
--Burning Forest
--Abyss (Giant Hole and mini-boss location: -1000, 20, 0)
--Golden Land (Giant Tree and mini-boss location: 1000, 320, 0)
--Mountain Range (Walking in this biome gives you the Freeze effect.)
--Beach
--Ocean
+- Lavender Highlands
+- Hydrothermal Forest (Bathing in the mineral pools restores your health.)
+- Dragon Peak
+- Bleeding Valley (Following the river of blood will lead you to Tartarus.)
+- Burning Forest
+- Abyss (Giant Hole and mini-boss location: -1000, 20, 0)
+- Golden Land (Giant Tree and mini-boss location: 1000, 320, 0)
+- Mountain Range (Walking in this biome gives you the Freeze effect.)
+- Beach
+- Ocean
 
 Features:
 
--Custom prefabs (200+)
--2 dimensions (Overworld / Bleeding Valley)
--Custom blocks
--Custom fluids (hot water / infinite fire)
--Custom mobs/NPCs
--Custom merchant trades
--2 mini bosses
--Custom particles
--Custom weather/sky/environment
--Custom music
+- Custom prefabs (200+)
+- 2 dimensions (Overworld / Bleeding Valley)
+- Custom blocks
+- Custom fluids (hot water / infinite fire)
+- Custom mobs/NPCs
+- Custom merchant trades
+- 2 mini bosses
+- Custom particles
+- Custom weather/sky/environment
+- Custom music
 
 NOTES/KNOWN ISSUES:
 - Fire has been disabled in the Burning Forest because it was causing too much lag. I’ll re-enable it once it’s better optimized. (This biome is a bit less interesting for now, as the original idea was to make it dynamic, evolving as the fire spreads and damages the prefabs.)
