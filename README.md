@@ -13,7 +13,7 @@ This repository is composed of 2 parts:
 
 
 
-*About Whispers of the Horizon:*
+<ins>*About Whispers of the Horizon:*</ins>
 
 VERSION: PRE-RELEASE
 
