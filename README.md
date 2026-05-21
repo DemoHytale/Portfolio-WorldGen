@@ -11,7 +11,9 @@ This repository is composed of 2 parts:
 **Advanced_Technique_Orientation_Toward_POI**: A technique that orients/tilts shapes in the direction of density gradient vectors (useful for environmental storytelling, for example tilting terrain or shapes toward a river, mountain, or any other POI).
 
 
-<u>About Whispers of the Horizon:</u>
+
+
+*About Whispers of the Horizon:*
 
 VERSION: PRE-RELEASE
 
