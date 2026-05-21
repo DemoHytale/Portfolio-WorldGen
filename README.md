@@ -1,3 +1,18 @@
+This repository is composed of 2 parts:
+
+**1-** The asset pack of my World Gen V2 mod “Whispers of the Horizon”
+
+**2-** A set of .json files containing advanced World Gen V2 techniques that I developed:
+
+**Advanced_Technique_Fast_Angle**: A technique that allows precise and efficient calculation of the angle around a point, for example to accurately place POIs.
+
+**Advanced_Technique_Truly_Random_Orientation**: A technique that enables shapes to be oriented/tilted in a fully random manner (without manually defining orientation using a mix or density-based choice), allowing for an infinite range of inclinations/orientations from 0° to 360°.
+
+**Advanced_Technique_Orientation_Toward_POI**: A technique that orients/tilts shapes in the direction of density gradient vectors (useful for environmental storytelling, for example tilting terrain or shapes toward a river, mountain, or any other POI).
+
+
+<u>About Whispers of the Horizon:</u>
+
 VERSION: PRE-RELEASE
 
 This mod lets you explore 2 brand-new dimensions made up of 10 completely unique biomes, built with Hytale’s world gen v2! Set out on an adventure and discover breathtaking landscapes. A particular attention has been given to the world’s topography. Rivers follow a geologically realistic flow, starting in the mountains, crossing the land, and eventually flowing into the ocean. The mountains also feature realistic erosion and natural shaping.
