@@ -6,7 +6,7 @@ This repository is composed of 2 parts:
 
 <ins>**Advanced_Technique_Fast_Angle**</ins>: A technique that allows precise and efficient calculation of the angle around a point, for example to accurately place POIs.
 
-<ins>**Advanced_Technique_Truly_Random_Orientation**</ins>: A technique that enables shapes to be oriented/tilted in a fully random manner (without manually defining orientation using a mix or density-based choice), allowing for an infinite range of inclinations/orientations from 0° to 360°.
+<ins>**Advanced_Technique_Truly_Random_Orientation**</ins>: A technique that enables shapes to be oriented/tilted in a fully random manner (without manually defining orientation using a mix or ChoiceDensity), allowing for an infinite range of inclinations/orientations from 0° to 360°.
 
 <ins>**Advanced_Technique_Orientation_Toward_POI**</ins>: A technique that orients/tilts shapes in the direction of density gradient vectors (useful for environmental storytelling, for example tilting terrain or shapes toward a river, mountain, or any other POI).
 
